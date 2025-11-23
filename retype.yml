@@ -1,0 +1,19 @@
+input: .
+output: .retype
+
+url: docs.u0000.qzz.io # Use your website address here
+
+start:
+  # Uncomment the next line to try Retype Pro features
+  # pro: true
+
+branding:
+  title: undefined's Docs
+  label: Docs
+
+links:
+  - text: Main Site
+    link: https://www.u0000.qzz.io
+
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
